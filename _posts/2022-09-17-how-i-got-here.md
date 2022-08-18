@@ -7,3 +7,7 @@ tags: jekyll github windows
 ---
 
 At last my new blog is up and running.
+
+// some contents
+  {% include disqus.html %}
+  // some contents
