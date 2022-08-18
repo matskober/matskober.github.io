@@ -2,7 +2,8 @@
 layout: post
 title: How I got here
 date: '2022-08-18 18:00:02 +0200'
-categories: technical, blog
+categories: technical blog
+tags: jekyll github windows
 ---
 
-At last my new blog is up and running. 
+At last my new blog is up and running.
