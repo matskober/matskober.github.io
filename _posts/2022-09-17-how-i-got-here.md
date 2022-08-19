@@ -7,7 +7,7 @@ tags: jekyll github windows
 ---
 
 
-Finely my Jekyll-on-Github blog is up and running. It's been a step learning curve, one could say if in need of a cliché, but I'm not sure how much I've learned, to be honest. This post is an attempt to extract some knowledge out of this digital roller-coaster experience. And also get a bit more familiar with markdown.
+Finally my Jekyll-on-Github blog is up and running. It's been a step learning curve, one could say if in need of a cliché, but I'm not sure how much I've learned, to be honest. This post is an attempt to extract some knowledge out of this digital roller-coaster experience. And also get a bit more familiar with markdown.
 
 ## The starting point
 
@@ -16,3 +16,11 @@ In connection with some ongoing studies/projects of mine, I was looking into way
 And then there is Windows.
 
 ## A path out
+
+<script src="https://utteranc.es/client.js"
+        repo="matskober/matskober.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
