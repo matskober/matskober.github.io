@@ -23,16 +23,20 @@ Retrospectively, I would assume a plan ~~would~~ could be to:
 
 1. Go *Microsoft Store* and install the *Ubuntu* (or *Debian*) app. This will make your Windows computer "Linux-compatible". 
 2. Download and install *Ruby*, *RubyGem*, *Bundle* and *Jekyll*.
-3. Log in  to [GitHub](https://github.com) find a blog-template (I used [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)), fork this, give it at new name (your_user_name.github.io)
+3. Log in  to [GitHub](https://github.com) find a blog-template (I used [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)), fork this, give it at new name (your_user_name.github.io). Go to "settings/pages" and under "Build and Deploy" choose  *GitHub Actions*
 4. Install [GitHub Desktop](https://desktop.github.com/)
 5. Clone "your_user_name.github.io" to  a folder of your choosing on your computer using *GitHub Desktop*
 
-At this point it should be possible, whit a few edits in the *config.yml* file (e.g. the "url", pointing it to "https.//your_user_name.github.io") to push this back and let GitHub do the building and deploying. 
+At this point it should be possible, whit a few edits in the *config.yml* file (e.g. the "url", pointing it to "https.//your_user_name.github.io"), to push this back and let *GitHub* do the building and deploying of the blog. After a few minutes, go back to "settings/pages". If the deployment was successful this should be reflected on "settings/pages". If something went wrong (as I assume it will), you will find  tips on how to solve it by adding *Actions*. 
+
+Once you have been getting it up and running on "https://your_user_name.github.io", go back on your computer clone and edit the rest of the template, to make it yours. This is where the installed Jekyll comes to use. the command "jekyll serve" allows you to see your edits on localhost. When you are satisfied with the result, use *GitHub Desktop* to push the changes back to *GitHub*. 
+
+
+----------
 
 
 
 
-### Please comment!
 
 <script src="https://utteranc.es/client.js"
         repo="matskober/matskober.github.io"
