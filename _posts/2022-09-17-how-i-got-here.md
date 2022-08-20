@@ -17,7 +17,7 @@ And then there is Windows.
 
 ## Caught in the middle
 
-The biggest problem I ran into when trying to grasp how to use Jekyll, was of course my lack of digital competence, paired with my tendency not to make to much preparations - or any planning at all, actually. I just sort of jumped in, following some how-to-page I ~~googled~~ binged up - just to realize it was referring to a non-Windows computer.  But not to worry, if I just installed ... 
+The biggest problem I ran into when trying to grasp how to use Jekyll, was of course my lack of digital competence, paired with a tendency of mine not to make to much preparations - or do any planning at all, actually. I just sort of jumped in, following some how-to-page I ~~googled~~, sorry,  binged up - just to realize it was referring to a non-Windows computer.  But not to worry, the digital self help pages told me, if you just install this or that and get your git together... 
 
 Retrospectively, I would assume a plan ~~would~~ could be to: 
 
@@ -27,10 +27,13 @@ Retrospectively, I would assume a plan ~~would~~ could be to:
 4. Install [GitHub Desktop](https://desktop.github.com/)
 5. Clone "your_user_name.github.io" to  a folder of your choosing on your computer using *GitHub Desktop*
 
-At this point it should be possible, whit a few edits in the *config.yml* file (e.g. the "url", pointing it to "https.//your_user_name.github.io"), to push this back and let *GitHub* do the building and deploying of the blog. After a few minutes, go back to "settings/pages". If the deployment was successful this should be reflected on "settings/pages". If something went wrong (as I assume it will), you will find  tips on how to solve it by adding *Actions*. 
+At this point it should be possible, with a few edits in the *config.yml* file (e.g. the "url", pointing it to "https.//your_user_name.github.io"), to push this back and let *GitHub* do the building and deploying of the blog. After a few minutes, go back to "settings/pages". If the deployment was successful this should be reflected on "settings/pages". If something went wrong (as I assume it will), you will find  tips on how to solve it by adding *Actions*. 
 
 Once you have been getting it up and running on "https://your_user_name.github.io", go back on your computer clone and edit the rest of the template, to make it yours. This is where the installed Jekyll comes to use. the command "jekyll serve" allows you to see your edits on localhost. When you are satisfied with the result, use *GitHub Desktop* to push the changes back to *GitHub*. 
 
+## The end of the beginning 
+
+Obviously I'm in no position to give technical advise, and I have no illusion that what I described above is the right way to do things. But it seems to work. For now. 
 
 ----------
 
