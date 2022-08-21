@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: '/commons/avatar.jpg'
+img_cdn: 'C:\Users\matsk\OneDrive\Documents\GitHub\matskober.github.io\assets\img\favicons\favicon.ico'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/commons/avatar.jpg'
