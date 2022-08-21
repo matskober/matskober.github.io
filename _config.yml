@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/matskober/matskober.github.io/master/assets/img/favicons/favicon.ico'
+img_cdn: 'https://raw.githubusercontent.com/matskober/matskober.github.io/master/assets/img/favicons/safari-pinned-tab.svg'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/commons/avatar.jpg'
